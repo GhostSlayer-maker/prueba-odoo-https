@@ -43,7 +43,7 @@ services:
       - ./certbot/www:/var/www/certbot
       - ./certbot/conf:/etc/letsencrypt
     depends_on:
-      - odoo
+      - odoo17
 
   certbot:
     image: certbot/certbot:latest
