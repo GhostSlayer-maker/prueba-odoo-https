@@ -9,12 +9,12 @@ apt  install docker.io docker-compose -y
 
 Descargar repositorio
 ```
-git clone https://github.com/GhostSlayer-maker/odoo17-belephantit-preprod
+git clone https://github.com/GhostSlayer-maker/prueba-odoo-https
 ```
 
 Entrar al directorio
 ```
-cd odoo17-belephantit-preprod
+cd prueba-odoo-https
 ```
 Iniciar docker por cualquiera de las vias que aportan diferentes fucionalidades
 ```
